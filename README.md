@@ -10,21 +10,19 @@ Hello! 👋 I'm Igor. I'm a software developer with expertise in the following l
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🎆 Frameworks, Technologies
+### 🎆 Frameworks, Technologies 
 
 ![Express.js](https://img.shields.io/badge/-Express.js-lightgray?style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white)
 
 ### 📄 IDEs/Editors
 
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-lightgray?style=flat-square&logo=eclipseide&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-blueviolet?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-orange?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-ff69b4?style=flat-square&logo=coreldraw&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-lightgray?style=flat-square&logo=eclipseide&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-blueviolet?style=flat-square&logo=canva&logoColor=white)
 
 ### Version Control, Cloud Providers
 
