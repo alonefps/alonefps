@@ -30,6 +30,7 @@ Hello! 👋 I'm Igor. I'm a software developer with expertise in the following l
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-yellow?style=flat-square&logo=googlecloud&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-orange?style=flat-square&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-blue?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-orange?style=flat-square&logo=cloudflare&logoColor=white)
 
 ### Featured Projects
 
