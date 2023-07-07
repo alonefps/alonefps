@@ -1,8 +1,8 @@
 ### Welcome to My GitHub
 
-Olá! 👋 Eu sou Igor. Sou um desenvolvedor de software com conhecimento nas seguintes linguagens e tecnologias:
+Hello! 👋 I'm Igor. I'm a software developer with expertise in the following languages and technologies:
 
-### 📋 Linguagens de Programação
+### 📋 Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
@@ -35,15 +35,15 @@ Olá! 👋 Eu sou Igor. Sou um desenvolvedor de software com conhecimento nas se
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-### Projetos Destacados
+### Featured Projects
 
-Aqui está um dos projetos nos quais trabalhei e que gostaria de destacar:
+Here's one of the projects I've worked on and would like to highlight:
 
-- **Bot Julia** - Um bot para o Discord com integração à OpenAI "Chat GPT". Este bot utiliza tecnologias como JavaScript, Discord.js e a API da OpenAI. [Link para o projeto](https://botjulia.xyz)
+- **Bot Julia** - A Discord bot with integration to OpenAI's "Chat GPT". This bot utilizes technologies such as JavaScript, Discord.js, and the OpenAI API.  [Link to the project](https://botjulia.xyz)
 
-### Contato
+### Contact
 
-Você pode entrar em contato comigo através dos seguintes meios:
+You can reach out to me through the following channels:
 
 - Instagram: [@igor_exp](https://www.instagram.com/igor_exp/)
 - Discord: alonesz
