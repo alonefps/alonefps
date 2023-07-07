@@ -25,7 +25,7 @@ Hello! 👋 I'm Igor. I'm a software developer with expertise in the following l
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-lightgray?style=flat-square&logo=eclipseide&logoColor=white)
 
-### Version Control/Cloud Providers
+### Version Control, Cloud Providers
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-yellow?style=flat-square&logo=googlecloud&logoColor=white)
