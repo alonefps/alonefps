@@ -10,10 +10,13 @@ Hello! 👋 I'm Igor. I'm a software developer with expertise in the following l
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🎆 Frameworks
+### 🎆 Frameworks, Technologies
 
 ![Express.js](https://img.shields.io/badge/-Express.js-lightgray?style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white)
 
 ### 📄 IDEs/Editors
 
