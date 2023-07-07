@@ -4,7 +4,7 @@ Hello! 👋 I'm Igor. I'm a software developer with expertise in the following l
 
 ### 📋 Programming Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
