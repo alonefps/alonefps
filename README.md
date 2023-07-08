@@ -10,7 +10,7 @@ Hello! 👋 I'm Igor. I'm a software developer with expertise in the following l
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🎆 Frameworks, Technologies 
+### 🎆 Frameworks, Technologies, Libraries
 
 ![Express.js](https://img.shields.io/badge/-Express.js-lightgray?style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square)
