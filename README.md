@@ -16,6 +16,7 @@ Hello! 👋 I'm Igor. I'm a software developer with expertise in the following l
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white)
 
 ### 📄 IDEs/Editors
