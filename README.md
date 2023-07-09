@@ -6,9 +6,9 @@ Hello! 👋 I'm Igor. I'm a software developer with expertise in the following l
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-orange?style=badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-purple?style=badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=badge&logo=postgresql&logoColor=white)
 
 ### 🎆 Frameworks, Technologies, Libraries
 
