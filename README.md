@@ -14,10 +14,10 @@ Hello! 👋 I'm Igor. I'm a software developer with expertise in the following l
 
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-badge&logo=tailwind-css&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-badge&logo=heroku&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### 📄 IDEs/Editors
 
