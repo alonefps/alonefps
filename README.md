@@ -22,11 +22,11 @@ Hello! 👋 I'm Igor. I'm a software developer with expertise in the following l
 ### 📄 IDEs/Editors
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/-EclipseIDE-lightgray?style=flat-badge&logo=eclipseide&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-blueviolet?style=flat-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-orange?style=flat-badge&logo=adobeillustrator&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-ff69b4?style=flat-badge&logo=coreldraw&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-blueviolet?style=flat-badge&logo=canva&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/-EclipseIDE-lightgray?style=for-the-badgee&logo=eclipseide&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-blueviolet?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-orange?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-ff69b4?style=for-the-badgee&logo=coreldraw&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-blueviolet?style=for-the-badge&logo=canva&logoColor=white)
 
 ### Version Control, Cloud Providers
 
