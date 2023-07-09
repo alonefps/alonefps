@@ -33,7 +33,7 @@ Hello! 👋 I'm Igor. I'm a software developer with expertise in the following l
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?style=for-the-badgee&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ### Featured Projects
