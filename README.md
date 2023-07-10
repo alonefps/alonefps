@@ -6,8 +6,7 @@ Hello! 👋 I'm Igor. I'm a software developer with expertise in the following l
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-orange?style=badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-purple?style=badge&logo=php&logoColor=white)
+![LUA](https://img.shields.io/badge/-SQL-blue?style=badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=badge&logo=postgresql&logoColor=white)
 
 ### 🎆 Frameworks, Technologies, Libraries
@@ -25,8 +24,8 @@ Hello! 👋 I'm Igor. I'm a software developer with expertise in the following l
 ![Eclipse IDE](https://img.shields.io/badge/-EclipseIDE-lightgray?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-blueviolet?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-orange?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-ff69b4?style=for-the-badgee&logo=coreldraw&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-blueviolet?style=for-the-badge&logo=canva&logoColor=white)
+![CorelDraw](https://img.shields.io/badge/CorelDRAW-FF0000?style=for-the-badge&logo=coreldraw&logoColor=white)
 
 ### Version Control, Cloud Providers
 
