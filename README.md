@@ -1,6 +1,6 @@
-### Welcome to My GitHub
+### Welcome to My GitHub 👋
 
-Hello! 👋 I'm Igor. I'm a software developer.
+Hello! I'm Igor. I'm a software developer.
 
 ### Featured Projects
 
