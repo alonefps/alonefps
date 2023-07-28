@@ -13,4 +13,3 @@ Here's one of the projects I've worked on and would like to highlight:
 You can reach out to me through the following channels:
 
 - Instagram: [@igor_exp](https://www.instagram.com/igor_exp/)
-- Discord: alonesz
