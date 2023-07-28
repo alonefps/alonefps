@@ -1,6 +1,10 @@
 ### Welcome to My GitHub 👋
 
-Hello! I'm Igor. I'm a software developer.
+Hello! I'm Igor, a passionate software developer with a love for creating innovative solutions.
+
+### About Me
+
+I enjoy working with a wide range of technologies and have experience in web development, artificial intelligence, and chatbot creation. Constantly seeking opportunities to learn and grow, I find joy in tackling new challenges.
 
 ### Featured Projects
 
