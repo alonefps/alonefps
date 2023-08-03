@@ -4,7 +4,9 @@ Hello! I'm Igor, a passionate software developer with a love for creating innova
 
 ### About Me
 
-I enjoy working with a wide range of technologies and have experience in web development, artificial intelligence, and chatbot creation. Constantly seeking opportunities to learn and grow, I find joy in tackling new challenges.
+Eu sou o Igor, um entusiasta desenvolvedor de software, movido pela paixão de criar soluções que possam transformar o mundo. Minha jornada na tecnologia me levou a explorar diversas áreas, desde o desenvolvimento web até a inteligência artificial e criação de chatbots.
+
+Acredito no poder da tecnologia como uma ferramenta para impulsionar mudanças positivas em nossa sociedade. Meu objetivo é utilizar todo o meu conhecimento e habilidades para impactar vidas, trazendo inovação e tornando processos mais eficientes.
 
 ### Featured Projects
 
