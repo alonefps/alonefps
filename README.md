@@ -1,6 +1,6 @@
 ### Welcome to My GitHub 👋
 
-Hello! I'm Igor, a passionate software developer with a love for creating innovative solutions.
+Hello! I'm Igor, a passionate software developer driven by the desire to change the world.
 
 ### About Me
 
