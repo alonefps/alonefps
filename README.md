@@ -10,5 +10,5 @@ I enjoy working with a wide range of technologies and have experience in web dev
 
 Here's one of the projects I've worked on and would like to highlight:
 
-- **Bot Julia** - A Discord bot with integration to OpenAI's "Chat GPT". This bot utilizes technologies such as JavaScript, Discord.js, and the OpenAI API.  [Link to the project](https://botjulia.xyz)
+**Bot Julia** - A Discord bot with integration to OpenAI's "Chat GPT". This bot utilizes technologies such as JavaScript, Discord.js, and the OpenAI API.  [Link to the project](https://botjulia.xyz)
 
