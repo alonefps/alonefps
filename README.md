@@ -8,7 +8,4 @@ I'm Igor, an enthusiastic software developer, driven by the passion to create so
 
 ### Featured Projects
 
-Here's one of the projects I've worked on and would like to highlight:
-
 **Bot Julia** - A Discord bot with integration to OpenAI's "Chat GPT". This bot utilizes technologies such as JavaScript, Discord.js, and the OpenAI API.  [Link to the project](https://botjulia.xyz)
-
