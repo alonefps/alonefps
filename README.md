@@ -9,5 +9,3 @@ I'm Igor, I'm 19 years old, and I'm an enthusiastic software developer, driven b
 ### Featured Projects
 
 **Bot Julia:** A Discord bot with integration to OpenAI's "Chat GPT". This bot utilizes technologies such as JavaScript, Discord.js, and the OpenAI API.  [Link to the project](https://botjulia.xyz)
-
-![Igor's GitHub stats](https://githubcardbr.vercel.app/api/github?user=alonefps)
