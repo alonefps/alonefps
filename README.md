@@ -12,7 +12,8 @@ I'm 19 years old, and I'm an enthusiastic software developer, driven by the pass
 
 <div align="center">
   <br>
-  <p align="centre"><b>Visitors Count</b></p>  
-  ![Profile Views](https://profile-counter.glitch.me/alonefps/count.svg)
+  <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alonefps&layout=compact&theme=dark&langs_count=8&card_width=320"/>
   <br>
+  <p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alonefps}/count.svg" /></p> 
 </div>
