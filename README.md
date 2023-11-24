@@ -13,6 +13,6 @@ I'm 19 years old, and I'm an enthusiastic software developer, driven by the pass
 <div align="center">
   <br>
   <p align="centre"><b>Visitors Count</b></p>  
-  ![Profile views](https://gpvc.arturio.dev/[alonefps])
+  ![Profile views](https://profile-counter.glitch.me/alonefps/count.svg)
   <br>
 </div>
