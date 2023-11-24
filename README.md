@@ -9,3 +9,10 @@ I'm 19 years old, and I'm an enthusiastic software developer, driven by the pass
 ## Featured Projects
 
 **[Bot Julia:](https://botjulia.xyz)** A Discord bot with integration to OpenAI's "Chat GPT". This bot utilizes technologies such as JavaScript, Discord.js, and the OpenAI API.
+
+<div align="center">
+  <br>
+  <p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{YuriLRodrigues}/count.svg" /></p> 
+  <br>
+</div>
