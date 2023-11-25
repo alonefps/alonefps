@@ -1,10 +1,6 @@
 # Igor Souza
 
-Hello! I'm Igor, a passionate software developer driven by the desire to change the world.
-
-## About Me
-
-I'm 19 years old, and I'm an enthusiastic software developer, driven by the passion to create solutions that can transform the world. My technology journey has taken me to explore many areas, from web development to artificial intelligence and chatbot creation. I believe in the power of technology as a tool to promote positive changes in our society. My goal is to use all of my knowledge and skills to impact lives.
+I'm an enthusiastic software developer, driven by the passion to create solutions that can transform the world. My technology journey has taken me to explore many areas, from web development to artificial intelligence and chatbot creation. I believe in the power of technology as a tool to promote positive changes in our society. My goal is to use all of my knowledge and skills to impact lives.
 
 ## Featured Projects
 
