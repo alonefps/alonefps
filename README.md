@@ -1,4 +1,4 @@
-## Igor Souza
+# Igor Souza
 
 Hello! I'm Igor, a passionate software developer driven by the desire to change the world.
 
