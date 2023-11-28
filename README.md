@@ -1,6 +1,6 @@
 # Igor Souza
 
-I'm an enthusiastic software developer, driven by the passion to create solutions that can transform the world. My technology journey has taken me to explore many areas, from web development to artificial intelligence and chatbot creation. I believe in the power of technology as a tool to promote positive changes in our society. My goal is to use all of my knowledge and skills to impact lives.
+Sou um desenvolvedor de software entusiasta, movido pela paixão de criar soluções que possam transformar o mundo. Minha jornada tecnológica me levou a explorar diversas áreas, desde desenvolvimento web até inteligência artificial e criação de chatbots. Acredito no poder da tecnologia como ferramenta para promover mudanças positivas em nossa sociedade. Meu objetivo é usar todo o meu conhecimento e habilidades para impactar vidas.
 
 ## Featured Projects
 
